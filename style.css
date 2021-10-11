@@ -1,0 +1,20 @@
+hr{
+    width: 200px ;
+    height: 5px;
+    background-color:black;
+
+}
+p{
+    max-width: 500px;
+    text-align: justify;
+    font-family:cursive;
+    font-size: 20px;
+}
+#Pic{
+    background: linear-gradient(pink 0%,lightblue 100%);
+    padding: 15px;
+}
+#Info{
+    background: linear-gradient(yellow 4%,lightgreen 100%);
+    padding: 15px;
+}
